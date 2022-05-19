@@ -1,6 +1,6 @@
 # dex_signsum_recount
   
-## 对dex文件头中的 sum 和 sign 和 size 重新计算并写回的项目
+### 对dex文件头中的 sum 和 sign 和 size 重新计算并写回的项目
 函数：
 >校验sign  
 >校验checksum  
